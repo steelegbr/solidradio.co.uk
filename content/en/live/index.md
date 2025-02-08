@@ -34,7 +34,7 @@ menu: {main: {weight: 10}}
 {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fa-radio" title="On the Radio" %}}
-Listen to and interact with the crew on [Bowe Radio](https://boweradio.co.uk/listen/) or [Thatcham Town Radio](https://thatchamtownradio.uk/).
+Listen to and interact with the crew on a radio station near you.
 {{% /blocks/feature %}}
 
 {{% /blocks/section %}}
