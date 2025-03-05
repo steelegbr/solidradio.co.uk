@@ -15,6 +15,9 @@ menu: {main: {weight: 10}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="https://boweradio.co.uk/listen/">
   Bowe Radio <i class="fas fa-radio ms-2"></i>
 </a>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://thatchamtownradio.uk/">
+  Thatcham Town Radio <i class="fas fa-radio ms-2"></i>
+</a>
 <a class="btn btn-lg btn-primary me-3 mb-4" href="https://www.getmeradio.com/stations/eastendcommunityradio-1853/?station_id=1853">
   East End Community Radio <i class="fas fa-radio ms-2"></i>
 </a>
