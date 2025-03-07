@@ -10,7 +10,7 @@ menu: {main: {weight: 100}}
 {{< /blocks/cover >}}
 
 {{% blocks/lead color="primary" %}}
-Interested? Then call the studio on [0115 888 3268](tel:+441158883268) or send us an [e-mail](mailto:marc@solidradio.co.uk).
+Interested? Then call the studio on [07367 85 85 47](tel:+447367858547) or send us an [e-mail](mailto:marc@solidradio.co.uk).
 {{% /blocks/lead %}}
 
 {{% blocks/section type="row" %}}
