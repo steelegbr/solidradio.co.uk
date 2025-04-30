@@ -27,6 +27,9 @@ menu: {main: {weight: 10}}
 <a class="btn btn-lg btn-primary me-3 mb-4" href="https://hotz100baycity.neocities.org/">
   Hot Z100 Bay City, TX <i class="fas fa-radio ms-2"></i>
 </a>
+<a class="btn btn-lg btn-primary me-3 mb-4" href="https://wtradio.co.uk/">
+  Warwick Town Radio <i class="fas fa-radio ms-2"></i>
+</a>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
